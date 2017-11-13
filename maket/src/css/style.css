@@ -394,7 +394,7 @@ li.linkedin-section-lower-item:last-child {
 .how-upper-child-section {
     display: block;
     width: 760px;
-    margin-bottom: -4em;
+    transform: translateY(4em);
 }
 .how-section-action {
     float: right;
